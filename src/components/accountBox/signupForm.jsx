@@ -17,7 +17,7 @@ export function SignupForm(props) {
     <BoxContainer>
       <FormContainer>
         <Input type="text" placeholder="Full Name" />
-        <Input type="email" placeholder="Email" />
+        <Input type="text" placeholder="Username" />
         <Input type="password" placeholder="Password" />
         <Input type="password" placeholder="Confirm Password" />
       </FormContainer>
